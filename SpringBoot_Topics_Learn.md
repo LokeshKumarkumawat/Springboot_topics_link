@@ -1,4 +1,4 @@
-# [1] Spring Boot with MongoDB
+## [1] Spring Boot with MongoDB
 
 **Links:**
 - [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/spring-boot-mongodb)
@@ -7,7 +7,7 @@
 - [Spring Boot CRUD Operations using MongoDB](https://www.geeksforgeeks.org/spring-boot-crud-operations-using-mongodb/)
 - [Spring Boot MongoDB CRUD Example](https://www.bezkoder.com/spring-boot-mongodb-crud/#google_vignette)
 
-# [2] Managing Multiple Configuration Files in Spring Boot
+## [2] Managing Multiple Configuration Files in Spring Boot
 
 **Links:**
 - [Spring Profiles in Spring Boot](https://howtodoinjava.com/spring-boot/spring-profiles/)
@@ -15,7 +15,7 @@
 - [Spring Boot Profiles Tutorial](https://www.springboottutorial.com/spring-boot-profiles)
 - [Getting Started with Spring Boot Profiles](https://medium.com/javarevisited/getting-started-with-spring-boot-profiles-1e00159f0542)
 
-# [3] Rest API to Upload Image
+## [3] Rest API to Upload Image
 
 **Links:**
 - [Spring Boot File Download/Upload REST API Examples](https://www.codejava.net/frameworks/spring-boot/file-download-upload-rest-api-examples)
