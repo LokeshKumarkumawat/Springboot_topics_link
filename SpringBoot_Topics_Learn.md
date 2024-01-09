@@ -24,3 +24,29 @@
 - [How to Create API in Spring Boot to Upload Image](https://www.oodlestechnologies.com/blogs/how-to-create-api-in-spring-boot-to-upload-image/)
 - [Spring Boot File Upload/Download REST API Example](https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/)
 - [Spring Boot Upload and Download Images using JPA](https://medium.com/shoutloudz/spring-boot-upload-and-download-images-using-jpa-b1c9ef174dc0)
+- [Spring Boot Upload and 2](https://howtodoinjava.com/spring-boot/spring-boot-file-upload-rest-api/)
+
+## [4] Serve Images in Spring Boot Project
+
+**Links:**
+- [Uploading and Serving Static Files in Spring Boot using Cloudinary](https://javawhizz.com/2023/02/uploading-and-serving-static-files-in-spring-boot-using-cloudinary)
+- [Image Server with Spring Boot PostgreSQL](https://medium.com/echohub/imageserver-with-spring-boot-postgresql-aec02e5dad9b)
+- [Spring Content: The Better Way to Save and Serve Files and Images with Spring Boot](https://dev.to/tschuehly/spring-content-the-better-way-to-save-and-serve-files-and-images-with-spring-boot-1lj3)
+- [Saving Images Locally in a Spring Boot Web Application](https://medium.com/@kkarththi15/saving-images-locally-in-a-spring-boot-web-application-01405a988bc7)
+
+## [5] Spring Security without the WebSecurityConfigurerAdapter
+
+**Links:**
+- [Spring Security without the WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter/)
+- [Spring Security without WebSecurityConfigurerAdapter](https://medium.com/javarevisited/spring-security-without-websecurityconfigureradapter-c712b81cc6ed)
+- [Spring Security without WebSecurityConfigurerAdapter Tutorial](https://www.javaguides.net/2022/08/spring-security-without-webSecurityconfigureradapter.html)
+- [Spring Security without WebSecurityConfigurerAdapter](https://javatechonline.com/spring-security-without-websecurityconfigureradapter/)
+- [Spring Boot Using JWT without WebSecurityConfigurerAdapter](https://www.linkedin.com/pulse/spring-boot-using-jwt-without-tung-vo/)
+- [Spring Security Configuration without WebSecurityConfigurerAdapter](https://medium.com/@kamuraza09/spring-security-configuration-without-websecurityconfigureradapter-3a3fde34fcf6)
+
+## [6] Adding Support for XML with JSON with Type Configuration
+
+**Links:**
+- [Spring Boot Content Negotiation with XML JSON Representations](https://www.springboottutorial.com/spring-boot-content-negotiation-with-xml-json-representations)
+- [Return XML JSON Spring MVC](https://www.appsdeveloperblog.com/return-xml-json-spring-mvc/)
+- [YouTube Video: Adding XML and JSON Support in Spring MVC](https://youtu.be/V_QO6fAsv4U?si=fFtAx4HG5f4BLQAy)
