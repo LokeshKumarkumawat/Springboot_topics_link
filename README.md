@@ -119,15 +119,10 @@
 ### [14] Spring Boot Server-Side Validation Example
 
 **Links:**
-- [Validating Form Input with Spring](https://spring.io/guides/gs/validating-form-input/)
-- [Spring Boot Form Validation Tutorial](https://www.codejava.net/frameworks/spring-boot/spring-boot-form-validation-tutorial)
 - [Bean Validation with Spring Boot](https://reflectoring.io/bean-validation-with-spring-boot/)
-- [Spring Boot Validation](https://www.educba.com/spring-boot-validation/)
 - [Simple Spring Boot CRUD Application with Server-Side Form Validation](https://progressive-code.com/post/11/Simple-Spring-Boot-CRUD-application-with-Server-side-form-validation)
-- [Spring Boot Form Validation](https://medium.com/@toimrank/spring-boot-form-validation-692489c66751)
 - [Validation in Spring Boot REST API with Hibernate Validator](https://www.javaguides.net/2021/03/validation-in-spring-boot-rest-api-with-hibernate-validator.html)
-- [Spring Boot Validation for REST Services](https://www.springboottutorial.com/spring-boot-validation-for-rest-services)
-- [Mastering Data Validation in Spring Boot: Best Practices and Expert Tips](https://medium.com/@techisbeautiful/mastering-data-validation-in-spring-boot-best-practices-and-expert-tips-for-robust-and-secure-ba24dd79bc0a)
+
 
 ### [15] Login System with Spring Security in Spring Boot Thymeleaf
 
