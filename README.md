@@ -104,7 +104,6 @@
 **Links:**
 - [How to Configure Multiple Databases in Spring Boot](https://bharathkalyans.hashnode.dev/how-to-configure-multiple-databases-in-spring-boot)
 - [Configure Multiple Databases in Spring Data JPA](https://www.learnjavaskills.in/2022/01/configure-multiple-databases-in-spring-data-jpa.html)
-- [Using Multiple Datasources with Spring Boot and Spring Data](https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7)
 - [Configure Multiple Datasources in Spring Boot](https://howtodoinjava.com/spring-boot/configure-multiple-datasources/)
 - [Connecting Multiple Databases in Spring Boot](https://blog.stackademic.com/connecting-multiple-databases-in-spring-boot-2db8bf437bcc)
 
