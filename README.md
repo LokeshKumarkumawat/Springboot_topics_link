@@ -263,11 +263,7 @@
 ### [24] Spring Boot CRUD Operations Example with Hibernate [26]
 
 **Links:**
-- [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/)
-- [JavaTPoint](https://www.javatpoint.com/spring-boot-crud-operations)
-- [JavaGuides](https://www.javaguides.net/2019/10/spring-boot-crud-operations-example-with-jpa-hibernate.html)
-- [SpringBootTutorial](https://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate)
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/spring-mvc-hibernate-mysql-integration-crud-example-tutorial)
+- [HowToDoInJava]([https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
 
 
 
