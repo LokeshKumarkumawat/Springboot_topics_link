@@ -259,3 +259,15 @@
 **Links:**
 - [All Logics](https://chat.openai.com/share/b9db4fc0-0387-4fe5-8364-833d56fedc03)
 
+
+### [24] Spring Boot CRUD Operations Example with Hibernate [26]
+
+**Links:**
+- [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/)
+- [JavaTPoint](https://www.javatpoint.com/spring-boot-crud-operations)
+- [JavaGuides](https://www.javaguides.net/2019/10/spring-boot-crud-operations-example-with-jpa-hibernate.html)
+- [SpringBootTutorial](https://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/spring-mvc-hibernate-mysql-integration-crud-example-tutorial)
+
+
+
