@@ -263,7 +263,7 @@
 ### [24] Spring Boot CRUD Operations Example with Hibernate [26]
 
 **Links:**
-- [HowToDoInJava]([https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
+- [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/](https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln)
 
 
 
