@@ -45,6 +45,12 @@
 - **Objective:** Grasp Microservices Concepts
 - Learn about microservices architecture.
 - Understand service discovery, load balancing, and API gateways.
+- Learn Spring Cloud( spring cloud config, Confugration profiles )
+- Rest Client or Feign
+- Spring Cloud API Gateway
+- Load Balancing with Eureka or Spring Cloud Load Balancer
+- Spring Cloud Gateway Logging Filter
+- Circuit Breaker (Resilience 4j)
 
 ## 10. Spring Cloud:
 - **Objective:** Implement Cloud-Native Applications
