@@ -11,3 +11,4 @@
 - [Taking Your First Steps with Spring Cloud Stream]([https://seyhmusaydogdu.medium.com/eureka-server-and-discovery-client-with-spring-boot-3-1-1-ece0d9ea5296](https://medium.com/@AlexanderObregon/taking-your-first-steps-with-spring-cloud-stream-5a8ceadd39df)
 
 
+- [Distributed Transactions in Microservices with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/)
