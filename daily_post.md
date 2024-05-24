@@ -12,3 +12,5 @@
 
 
 - [Distributed Transactions in Microservices with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/)
+
+- [Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging](https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1)
