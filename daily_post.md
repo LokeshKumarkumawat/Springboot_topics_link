@@ -20,3 +20,5 @@
 
 - [Testing Exceptions in Java with JUnit 5](https://archive.ph/JO768)
 
+
+- [Mastering Unit Testing with JUnit and Mockito: A Comprehensive Guide for Developers](https://medium.com/@tiokachiu/mastering-unit-testing-with-junit-and-mockito-a-comprehensive-guide-for-developers-b976c376534f)
