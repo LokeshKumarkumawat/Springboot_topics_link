@@ -18,3 +18,5 @@
 
 - [Comparing Two-Factor Authentication Methods in Spring Boot](https://medium.com/@AlexanderObregon/comparing-two-factor-authentication-methods-in-spring-boot-1f6843c8e240)
 
+- [Testing Exceptions in Java with JUnit 5](https://archive.ph/JO768)
+
