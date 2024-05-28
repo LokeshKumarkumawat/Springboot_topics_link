@@ -24,3 +24,9 @@
 - [Mastering Unit Testing with JUnit and Mockito: A Comprehensive Guide for Developers](https://medium.com/@tiokachiu/mastering-unit-testing-with-junit-and-mockito-a-comprehensive-guide-for-developers-b976c376534f)
 
 - [Java Multithreading Interview Questions 2024]([https://medium.com/@tiokachiu/mastering-unit-testing-with-junit-and-mockito-a-comprehensive-guide-for-developers-b976c376534f](https://medium.com/@scholarhatblogs/java-multithreading-interview-questions-2024-d756e4a1d4bf)
+
+
+
+- [Creating a News Notification System with Kafka and Spring Boot](https://blog.devgenius.io/creating-a-news-notification-system-with-kafka-and-spring-boot-01b41837e807)
+
+- [Mastering Design Patterns in Java](https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480)
