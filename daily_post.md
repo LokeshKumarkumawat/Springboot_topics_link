@@ -30,3 +30,12 @@
 - [Creating a News Notification System with Kafka and Spring Boot](https://blog.devgenius.io/creating-a-news-notification-system-with-kafka-and-spring-boot-01b41837e807)
 
 - [Mastering Design Patterns in Java](https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480)
+
+#### 29/05/24
+
+
+
+- [Mastering Caching in Distributed Applications](https://medium.com/@yt-cloudwaydigital/mastering-caching-in-distributed-applications-e7449f4db399)
+
+
+- [Stop Using UUIDs in Your Database](https://medium.com/@yt-cloudwaydigital/mastering-caching-in-distributed-applications-e7449f4db399)
