@@ -39,3 +39,9 @@
 
 
 - [Stop Using UUIDs in Your Database](https://medium.com/@yt-cloudwaydigital/mastering-caching-in-distributed-applications-e7449f4db399)
+
+
+
+
+
+- [Dockerizing Spring Boot Application: Adhering to 8 Best Practices](https://blog.devgenius.io/dockerizing-spring-boot-application-adhering-to-8-best-practices-ec35c51e23e9)
