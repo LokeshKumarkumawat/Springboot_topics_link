@@ -45,3 +45,5 @@
 
 
 - [Dockerizing Spring Boot Application: Adhering to 8 Best Practices](https://blog.devgenius.io/dockerizing-spring-boot-application-adhering-to-8-best-practices-ec35c51e23e9)
+
+- [Kafka Interview Question for experienced Java developer in 2024](https://rathod-ajay.medium.com/kafka-interview-question-for-experienced-developer-in-2024-01b95d126cdd)
